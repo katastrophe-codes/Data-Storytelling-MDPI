@@ -10,4 +10,4 @@ Feel free to contribute, raise issues, or provide feedback. Let's work together 
 # License
 This project is licensed under Apache License 2.0
 
-Your involvement can make a difference! Join us in shedding light on the multifaceted challenges of global poverty. 🌍✨
+Your involvement can make a difference! Join the cause in shedding light on the multifaceted challenges of global poverty. 🌍✨
